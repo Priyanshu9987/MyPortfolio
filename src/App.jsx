@@ -84,7 +84,7 @@ function App() {
           <a href="" className="hover:text-blue-400">CodeChef</a>
           <a href="https://github.com/Priyanshu9987" className="hover:text-green-400">GitHub</a>
         </div>
-        <p className="mt-4">📧 priyanshuup04@gmail.com | 📱 (+91) 81687 31446</p>
+        <p className="mt-4">📧 <a href="mailto:priyanshuup04@gmail.com">priyanshuup04@gmail.com </a> | 📱 (+91) 81687 31446</p>
         <p className="mt-2 text-sm text-gray-500">Sir, Just give me a chance & I will prove myself. </p>
       </footer>
     </div>
