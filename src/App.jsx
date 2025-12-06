@@ -81,11 +81,11 @@ function App() {
         <p className="mb-3 text-lg">Connect with me:</p>
         <div className="flex gap-6 text-gray-300">
           <a href="https://leetcode.com/u/priyanshuup04/" className="hover:text-yellow-400">LeetCode</a>
-          <a href="" className="hover:text-blue-400">CodeChef</a>
+          <a href="https://www.codechef.com/users/priyanshu9987" className="hover:text-blue-400">CodeChef</a>
           <a href="https://github.com/Priyanshu9987" className="hover:text-green-400">GitHub</a>
         </div>
         <p className="mt-4">📧 <a href="mailto:priyanshuup04@gmail.com">priyanshuup04@gmail.com </a> | <a href="tel:+918168731446">📱 (+91)8168731446</a></p>
-        <p className="mt-2 text-sm text-gray-500">Sir, Just give me a chance & I will prove myself. </p>
+        <p className="mt-2 text-sm text-gray-500">Sir,Just give me a chance & I will prove myself.</p>
       </footer>
     </div>
   );
